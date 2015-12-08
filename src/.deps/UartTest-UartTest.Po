@@ -1,0 +1,138 @@
+UartTest-UartTest.o: UartTest.c \
+ /home/summer/test-yocto/qemuarm/usr/include/stdc-predef.h \
+ /home/summer/test-yocto/qemuarm/usr/include/stdio.h \
+ /home/summer/test-yocto/qemuarm/usr/include/features.h \
+ /home/summer/test-yocto/qemuarm/usr/include/sys/cdefs.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/wordsize.h \
+ /home/summer/test-yocto/qemuarm/usr/include/gnu/stubs.h \
+ /home/summer/test-yocto/qemuarm/usr/include/gnu/stubs-soft.h \
+ /opt/poky/1.8/sysroots/x86_64-pokysdk-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stddef.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/types.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/typesizes.h \
+ /home/summer/test-yocto/qemuarm/usr/include/libio.h \
+ /home/summer/test-yocto/qemuarm/usr/include/_G_config.h \
+ /home/summer/test-yocto/qemuarm/usr/include/wchar.h \
+ /opt/poky/1.8/sysroots/x86_64-pokysdk-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdarg.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/stdio_lim.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/sys_errlist.h \
+ /home/summer/test-yocto/qemuarm/usr/include/stdlib.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/waitflags.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/waitstatus.h \
+ /home/summer/test-yocto/qemuarm/usr/include/endian.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/endian.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/byteswap.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/byteswap-16.h \
+ /home/summer/test-yocto/qemuarm/usr/include/sys/types.h \
+ /home/summer/test-yocto/qemuarm/usr/include/time.h \
+ /home/summer/test-yocto/qemuarm/usr/include/sys/select.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/select.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/sigset.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/time.h \
+ /home/summer/test-yocto/qemuarm/usr/include/sys/sysmacros.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/pthreadtypes.h \
+ /home/summer/test-yocto/qemuarm/usr/include/alloca.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/stdlib-float.h \
+ /home/summer/test-yocto/qemuarm/usr/include/unistd.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/posix_opt.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/environments.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/confname.h \
+ /home/summer/test-yocto/qemuarm/usr/include/getopt.h \
+ /home/summer/test-yocto/qemuarm/usr/include/fcntl.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/fcntl.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/fcntl-linux.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/stat.h \
+ /home/summer/test-yocto/qemuarm/usr/include/termios.h \
+ /home/summer/test-yocto/qemuarm/usr/include/bits/termios.h \
+ /home/summer/test-yocto/qemuarm/usr/include/sys/ttydefaults.h serial.h
+
+/home/summer/test-yocto/qemuarm/usr/include/stdc-predef.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/stdio.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/features.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/sys/cdefs.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/wordsize.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/gnu/stubs.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/gnu/stubs-soft.h:
+
+/opt/poky/1.8/sysroots/x86_64-pokysdk-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stddef.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/types.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/typesizes.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/libio.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/_G_config.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/wchar.h:
+
+/opt/poky/1.8/sysroots/x86_64-pokysdk-linux/usr/lib/arm-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.9.2/include/stdarg.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/stdio_lim.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/sys_errlist.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/stdlib.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/waitflags.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/waitstatus.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/endian.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/endian.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/byteswap.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/byteswap-16.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/sys/types.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/time.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/sys/select.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/select.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/sigset.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/time.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/sys/sysmacros.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/pthreadtypes.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/alloca.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/stdlib-float.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/unistd.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/posix_opt.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/environments.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/confname.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/getopt.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/fcntl.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/fcntl.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/fcntl-linux.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/stat.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/termios.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/bits/termios.h:
+
+/home/summer/test-yocto/qemuarm/usr/include/sys/ttydefaults.h:
+
+serial.h:

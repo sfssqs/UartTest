@@ -1,0 +1,1 @@
+/opt/poky/1.8/sysroots/x86_64-pokysdk-linux/usr/share/libtool/build-aux/ltmain.sh
