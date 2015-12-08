@@ -1,2 +1,2 @@
 # UartTest
-A uart test program in linux env
+A uart test program in linux(yocto project) env
